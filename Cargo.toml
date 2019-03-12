@@ -1,0 +1,10 @@
+[package]
+name = "distributions"
+version = "0.1.0"
+authors = ["Jonathan Strong <jstrong@tioscapital.com>"]
+edition = "2018"
+
+[dependencies]
+statrs = "0.10"
+rand = "0.5.5"
+itertools = "0.8"
